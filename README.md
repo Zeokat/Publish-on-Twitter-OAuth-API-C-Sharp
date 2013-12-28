@@ -9,7 +9,7 @@ Un código sencillo que ejemplifica como firmar una petición a la API 1.1 de Tw
 El código consiste en un proyecto de C# creado con Visual Studio 2010 bajo .Net Framework 4. Tenéis a vuestra disposición el artículo [como publicar en Twitter con API y autentificación OAuth C#](http://www.vozidea.com/publicar-en-twitter-con-api-oauth-c-sharp) que explica con detalle todo el código.
 
 
-![Alt attribute text Here](Publicar-en-Twitter-API-OAuth-Csharp.png)
+![Publicar en Twitter con C#](Publicar-en-Twitter-API-OAuth-Csharp.png)
 
 Características y requisitos
 ============================
