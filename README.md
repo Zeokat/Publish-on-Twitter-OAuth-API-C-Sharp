@@ -6,8 +6,9 @@ Publicar en Twitter con C#
 
 Como publicar en Twitter empleando la API y la autenticación OAuth mediante un programa en C#.
 Un código sencillo que ejemplifica como firmar una petición a la API 1.1 de Twitter con la autenticación OAuth.
-El código consiste en un proyecto de C# creado con Visual Studio 2010 bajo .Net Framework 4. Tenéis a vuestra disposición el artículo [como publicar en Twitter con API y autentificación OAuth C#](http://www.vozidea.com/publicar-en-twitter-con-api-oauth-c-sharp) que explica con detalle todo el ´codigo.
+El código consiste en un proyecto de C# creado con Visual Studio 2010 bajo .Net Framework 4. Tenéis a vuestra disposición el artículo [como publicar en Twitter con API y autentificación OAuth C#](http://www.vozidea.com/publicar-en-twitter-con-api-oauth-c-sharp) que explica con detalle todo el código.
 
+[[http://www.vozidea.com/wp-content/uploads/2013/12/Publicar-en-Twitter-API-OAuth-Csharp.png]]
 
 Características y requisitos
 ============================
