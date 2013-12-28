@@ -1,0 +1,8 @@
+c:\users\va\documents\visual studio 2010\Projects\Twitter OAuth (Crear post) - Vozidea.com\Twitter OAuth (Crear post) - Vozidea.com\bin\Debug\Twitter OAuth (Crear post) - Vozidea.com.exe
+c:\users\va\documents\visual studio 2010\Projects\Twitter OAuth (Crear post) - Vozidea.com\Twitter OAuth (Crear post) - Vozidea.com\bin\Debug\Twitter OAuth (Crear post) - Vozidea.com.pdb
+c:\users\va\documents\visual studio 2010\Projects\Twitter OAuth (Crear post) - Vozidea.com\Twitter OAuth (Crear post) - Vozidea.com\obj\x86\Debug\Twitter_OAuth__Crear_post____Vozidea.com.Form1.resources
+c:\users\va\documents\visual studio 2010\Projects\Twitter OAuth (Crear post) - Vozidea.com\Twitter OAuth (Crear post) - Vozidea.com\obj\x86\Debug\Twitter_OAuth__Crear_post____Vozidea.com.Properties.Resources.resources
+c:\users\va\documents\visual studio 2010\Projects\Twitter OAuth (Crear post) - Vozidea.com\Twitter OAuth (Crear post) - Vozidea.com\obj\x86\Debug\Twitter OAuth (Crear post) - Vozidea.com.csproj.GenerateResource.Cache
+c:\users\va\documents\visual studio 2010\Projects\Twitter OAuth (Crear post) - Vozidea.com\Twitter OAuth (Crear post) - Vozidea.com\obj\x86\Debug\Twitter OAuth (Crear post) - Vozidea.com.exe
+c:\users\va\documents\visual studio 2010\Projects\Twitter OAuth (Crear post) - Vozidea.com\Twitter OAuth (Crear post) - Vozidea.com\obj\x86\Debug\Twitter OAuth (Crear post) - Vozidea.com.pdb
+C:\Users\VA\documents\visual studio 2010\Projects\Twitter OAuth (Crear post) - Vozidea.com\Twitter OAuth (Crear post) - Vozidea.com\obj\x86\Debug\Twitter OAuth (Crear post) - Vozidea.com.csprojResolveAssemblyReference.cache
